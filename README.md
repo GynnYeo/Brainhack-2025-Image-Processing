@@ -35,8 +35,6 @@ Below are examples of the composite images we came up with
 ![NDVI Image](/img2/NDVI_image.png)
 ### Burn Scar Image
 ![Burn Scar Image](/img2/754_fire_and_burn_scar_image.png)
-### Natural  Image
-![Burn Scar Image](/img2/754_fire_and_burn_scar_image.png)
 
 
 
